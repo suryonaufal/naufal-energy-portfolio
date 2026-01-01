@@ -1,0 +1,15 @@
+title: Naufal Suryo Saputro
+description: Energy Transition | Renewable Energy | Techno-Economic Advisory
+theme: minima
+
+author:
+  name: Naufal Suryo Saputro
+  email: suryonaufal.official@gmail.com
+
+header_pages:
+  - about.md
+  - portfolio.md
+  - projects.md
+  - research.md
+  - cv.md
+  - contact.md
